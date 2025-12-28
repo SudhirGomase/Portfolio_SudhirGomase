@@ -101,7 +101,7 @@ const Hero = () => {
               <div className="photo-frame glass">
                 <div className="photo-glow"></div>
                 <motion.img
-                  src="/profile-image.png"
+                  src={process.env.PUBLIC_URL + "/profile-image.png"}
                   alt="Sudhir Gomase"
                   className="profile-photo"
                   onLoad={() => console.log('Profile image loaded successfully')}
