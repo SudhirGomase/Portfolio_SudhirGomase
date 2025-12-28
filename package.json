@@ -2,6 +2,7 @@
   "name": "portfolio-website",
   "version": "1.0.0",
   "description": "Modern portfolio website with glassmorphism and galaxy animations",
+  "homepage": "https://SudhirGomase.github.io/Portfolio_SudhirGomase",
   "private": true,
   "dependencies": {
     "framer-motion": "^10.16.4",
@@ -14,7 +15,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
