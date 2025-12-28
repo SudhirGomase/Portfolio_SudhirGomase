@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Portfolio_SudhirGomase/static/css/main.d44cd5d3.css",
-    "main.js": "/Portfolio_SudhirGomase/static/js/main.2e99ad27.js",
+    "main.js": "/Portfolio_SudhirGomase/static/js/main.c218639f.js",
     "index.html": "/Portfolio_SudhirGomase/index.html",
     "main.d44cd5d3.css.map": "/Portfolio_SudhirGomase/static/css/main.d44cd5d3.css.map",
-    "main.2e99ad27.js.map": "/Portfolio_SudhirGomase/static/js/main.2e99ad27.js.map"
+    "main.c218639f.js.map": "/Portfolio_SudhirGomase/static/js/main.c218639f.js.map"
   },
   "entrypoints": [
     "static/css/main.d44cd5d3.css",
-    "static/js/main.2e99ad27.js"
+    "static/js/main.c218639f.js"
   ]
 }
